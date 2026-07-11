@@ -6,7 +6,7 @@ This project demonstrates how to install, configure, and analyze Apache Web Serv
 ## Features
 - Install Apache2 on Kali Linux
 - Start and verify Apache service
-- Access localhost using a web browser(http://localhost)
+- Access localhost using a web browser
 - Analyze Access Logs
 - Analyze Error Logs
 - Monitor logs in real time using `tail -f`
